@@ -1,5 +1,6 @@
-# Low Poly Terrain for Unity
+# Low Poly Terrain for Unity V2
 Simple tool for generating low poly terrain by using build in generator or using custom one and modifiying it after using included tools (sculpting, smoothing, coloring).
+Includes an improved heights generator
 ## Features
 - Real time colors updating (tested on mobile)
 - Chunks system
